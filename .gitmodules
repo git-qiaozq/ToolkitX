@@ -1,0 +1,12 @@
+[submodule "claude-code/skills/repos/skills"]
+	path = claude-code/skills/repos/skills
+	url = https://github.com/anthropics/skills.git
+[submodule "claude-code/skills/repos/awesome-claude-skills"]
+	path = claude-code/skills/repos/awesome-claude-skills
+	url = https://github.com/BehiSecc/awesome-claude-skills.git
+[submodule "claude-code/utils/claude-code-image-paste-wsl"]
+	path = claude-code/utils/claude-code-image-paste-wsl
+	url = https://github.com/git-qiaozq/claude-code-image-paste-wsl.git
+[submodule "claude-code/utils/claude-image-paste"]
+	path = claude-code/utils/claude-image-paste
+	url = https://github.com/aggroot/claude-image-paste.git
