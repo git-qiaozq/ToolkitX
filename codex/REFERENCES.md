@@ -20,8 +20,8 @@ Codex CLI 是 OpenAI 推出的轻量级 AI 编程代理，运行在终端环境�
 # npm 全局安装（推荐）
 npm install -g @openai/codex
 
-# Homebrew 安装 (macOS)
-brew install --cask codex
+# 升级
+npm i -g @openai/codex@latest
 
 # 直接下载二进制文件
 # 访问 https://github.com/openai/codex/releases/latest
